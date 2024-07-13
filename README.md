@@ -35,3 +35,18 @@ pip install playsound
 pip install -r requirements.txt
 ```
 
+## Projects 
+1. Bagles
+    - input('String')
+    - 'String'.format()
+    - 'String'.lower()
+    - 'String'.startswith('String')
+    - list('String')
+    - list.sort()
+    - random.shuffle(list)
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\1. Bagels\Bagels.py"
+    deactivate
+    ```
