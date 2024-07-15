@@ -87,6 +87,16 @@ pip install -r requirements.txt
     deactivate
     ```
 
+5. DVD
+    - random.choice(list)
+    - random.randint(int, int)
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\5. DVD\DVD.py"
+    deactivate
+    ```
+
 
 
 
