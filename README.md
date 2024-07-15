@@ -76,6 +76,18 @@ pip install -r requirements.txt
     deactivate
     ```
 
+4. Blackjack
+    - 'String'.ljust(int)
+    - 'String'.rjust(int)
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\4. Blackjack\Blackjack.py"
+    deactivate
+    ```
+
+
+
 
 
 
