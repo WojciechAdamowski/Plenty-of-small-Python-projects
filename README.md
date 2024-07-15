@@ -50,3 +50,16 @@ pip install -r requirements.txt
     python ".\1. Bagels\Bagels.py"
     deactivate
     ```
+
+2. Birthday paradox
+    - random.randint(int, int)
+    - datetime.timedelta(int)
+    - datetime.date(int_year, int_month, int_day)
+    - enumerate(list)
+    - round(int, int)
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\2. Birthday paradox\BirthdayParadox.py"
+    deactivate
+    ```
