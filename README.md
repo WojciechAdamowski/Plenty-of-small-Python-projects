@@ -79,6 +79,7 @@ pip install -r requirements.txt
 4. Blackjack
     - 'String'.ljust(int)
     - 'String'.rjust(int)
+    - chr(int) 
 
     ```
     .\venv\Scripts\Activate.ps1
