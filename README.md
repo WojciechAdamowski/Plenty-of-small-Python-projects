@@ -97,6 +97,15 @@ pip install -r requirements.txt
     deactivate
     ```
 
+6. Caesar Cipher
+    - list.find(list_element)
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\6. Caesarcipher\Caesarcipher.py"
+    deactivate
+    ```
+
 
 
 
