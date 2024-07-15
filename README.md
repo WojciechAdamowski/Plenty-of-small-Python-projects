@@ -63,3 +63,19 @@ pip install -r requirements.txt
     python ".\2. Birthday paradox\BirthdayParadox.py"
     deactivate
     ```
+
+3. Bitmap
+    - open('String_file_name', 'String_open_type')
+    - file.read()
+    - 'String'.splitlines()
+    - sys.exit()
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\3. Bitmap\Bitmap.py"
+    deactivate
+    ```
+
+
+
+
