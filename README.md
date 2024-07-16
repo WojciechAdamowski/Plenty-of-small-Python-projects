@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
     ```
     .\venv\Scripts\Activate.ps1
-    python ".\6. Caesarcipher\Caesarcipher.py"
+    python ".\6. Caesar Cipher\CaesarCipher.py"
     deactivate
     ```
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
     ```
     .\venv\Scripts\Activate.ps1
-    python ".\7. Caesarhacker\Caesarhacker.py"
+    python ".\7. Caesar Hacker\CaesarHacker.py"
     deactivate
     ```
 
