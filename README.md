@@ -57,6 +57,7 @@ pip install -r requirements.txt
     - datetime.date(int_year, int_month, int_day)
     - enumerate(list)
     - round(int, int)
+    - 100_000
 
     ```
     .\venv\Scripts\Activate.ps1
@@ -97,7 +98,7 @@ pip install -r requirements.txt
     deactivate
     ```
 
-6. Caesar Cipher
+6. Caesar cipher
     - list.find(list_element)
 
     ```
@@ -106,11 +107,22 @@ pip install -r requirements.txt
     deactivate
     ```
 
-7. Caesar Hacker
+7. Caesar hacker
 
     ```
     .\venv\Scripts\Activate.ps1
     python ".\7. Caesar Hacker\CaesarHacker.py"
+    deactivate
+    ```
+
+8. Calendar maker
+    - date.weekday() 
+    - 'String'.isdecimal()
+    - conditional <= conditional <= conditional 
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\8. Calendar maker\CalendarMaker.py"
     deactivate
     ```
 
