@@ -125,6 +125,16 @@ pip install -r requirements.txt
     python ".\8. Calendar maker\CalendarMaker.py"
     deactivate
     ```
+    ```
+
+9. Carrot in box
+    - 'Strirng'.center(int)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\9. Carrot in box\CarrotInBox.py"
+    deactivate
+    ```
 
 
 
