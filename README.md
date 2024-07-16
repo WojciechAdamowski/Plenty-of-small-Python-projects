@@ -106,6 +106,14 @@ pip install -r requirements.txt
     deactivate
     ```
 
+7. Caesar Hacker
+
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\7. Caesarhacker\Caesarhacker.py"
+    deactivate
+    ```
+
 
 
 
