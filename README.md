@@ -136,6 +136,15 @@ pip install -r requirements.txt
     deactivate
     ```
 
+10. Cho-han
+    - int // 10 
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\10. Cho-han\ChoHan.py"
+    deactivate
+    ```
+
 
 
 
