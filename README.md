@@ -179,6 +179,16 @@ pip install -r requirements.txt
     python ".\14. Count down\CountDown.py"
     deactivate
     ```
+    ```
+
+15. Deep cave
+    - 
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\15. Deep cave\DeepCave.py"
+    deactivate
+    ```
 
 
 
