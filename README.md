@@ -144,6 +144,14 @@ pip install -r requirements.txt
     python ".\10. Cho-han\ChoHan.py"
     deactivate
     ```
+    
+11. Click bait
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\11. Click bait\ClickBait.py"
+    deactivate
+    ```
 
 
 
