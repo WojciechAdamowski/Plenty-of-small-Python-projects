@@ -179,7 +179,6 @@ pip install -r requirements.txt
     python ".\14. Count down\CountDown.py"
     deactivate
     ```
-    ```
 
 15. Deep cave
     - 
