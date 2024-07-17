@@ -152,6 +152,15 @@ pip install -r requirements.txt
     python ".\11. Click bait\ClickBait.py"
     deactivate
     ```
+    
+12. Collatz
+    - print('String', end='', flush=True)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\12. Collatz\Collatz.py"
+    deactivate
+    ```
 
 
 
