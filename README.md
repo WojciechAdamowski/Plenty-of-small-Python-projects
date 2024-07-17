@@ -171,6 +171,15 @@ pip install -r requirements.txt
     deactivate
     ```
 
+14. Count down
+    - copy.deepcopy(dictionary)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\14. Count down\CountDown.py"
+    deactivate
+    ```
+
 
 
 
