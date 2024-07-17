@@ -162,6 +162,15 @@ pip install -r requirements.txt
     deactivate
     ```
 
+13. Conways game of life
+    - copy.deepcopy(dictionary)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\13. Conways game of life\ConwaysGameOfLife.py"
+    deactivate
+    ```
+
 
 
 
