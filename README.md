@@ -181,13 +181,22 @@ pip install -r requirements.txt
     ```
 
 15. Deep cave
-    - 
     
     ```
     .\venv\Scripts\Activate.ps1
     python ".\15. Deep cave\DeepCave.py"
     deactivate
     ```
+
+16. Diamonds
+    - range(int, int)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\16. Diamonds\Diamonds.py"
+    deactivate
+    ```
+
 
 
 
