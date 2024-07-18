@@ -196,6 +196,17 @@ pip install -r requirements.txt
     python ".\16. Diamonds\Diamonds.py"
     deactivate
     ```
+    ```
+
+17. Dice math
+    - assert condition
+    - dictionart.get(key, value_returned)
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\17. Dice math\DiceMath.py"
+    deactivate
+    ```
 
 
 
