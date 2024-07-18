@@ -219,6 +219,14 @@ pip install -r requirements.txt
     deactivate
     ```
 
+19. Digital clock
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\19. Digital clock\DigitalClock.py"
+    deactivate
+    ```
+
 
 
 
