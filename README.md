@@ -208,6 +208,17 @@ pip install -r requirements.txt
     deactivate
     ```
 
+18. Dice roller
+    - raise Exception('String')
+    - except Exception as exc
+    - 'String'[:index]
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\18. Dice roller\DiceRoller.py"
+    deactivate
+    ```
+
 
 
 
