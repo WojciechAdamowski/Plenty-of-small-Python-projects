@@ -227,6 +227,14 @@ pip install -r requirements.txt
     deactivate
     ```
 
+20. Digital stream
+    
+    ```
+    .\venv\Scripts\Activate.ps1
+    python ".\20. Digital stream\DigitalStream.py"
+    deactivate
+    ```
+
 
 
 
